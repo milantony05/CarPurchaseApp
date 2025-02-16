@@ -1,6 +1,7 @@
 # CarPurchaseInterface
 
 A simple JavaFX application that allows users to select and book a car with their preferred fuel type and advance payment.
+
 ![car_javafx](https://github.com/user-attachments/assets/425017da-bb92-4601-9865-eabfb30d6c98)
 
 ## Requirements
